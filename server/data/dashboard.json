@@ -1,0 +1,26 @@
+{
+  "unit": { "name": "45 Bn", "commander": "Commander", "updatedAt": "04 Sep 2026 10:30 AM" },
+  "summary": { "total": 248, "normal": 196, "watch": 38, "highRisk": 14 },
+  "trend": [
+    { "day": "22 Aug", "normal": 150, "watch": 46, "highRisk": 11 },
+    { "day": "24 Aug", "normal": 165, "watch": 50, "highRisk": 14 },
+    { "day": "26 Aug", "normal": 178, "watch": 56, "highRisk": 19 },
+    { "day": "28 Aug", "normal": 162, "watch": 52, "highRisk": 11 },
+    { "day": "30 Aug", "normal": 172, "watch": 56, "highRisk": 12 },
+    { "day": "01 Sep", "normal": 160, "watch": 51, "highRisk": 11 },
+    { "day": "03 Sep", "normal": 175, "watch": 61, "highRisk": 14 }
+  ],
+  "units": [
+    { "name": "Alpha", "total": 52, "normal": 44, "watch": 6, "highRisk": 2, "status": "Stable" },
+    { "name": "Bravo", "total": 48, "normal": 36, "watch": 9, "highRisk": 3, "status": "Attention" },
+    { "name": "Charlie", "total": 50, "normal": 41, "watch": 6, "highRisk": 3, "status": "Attention" },
+    { "name": "Delta", "total": 46, "normal": 38, "watch": 7, "highRisk": 1, "status": "Stable" },
+    { "name": "Echo", "total": 52, "normal": 37, "watch": 10, "highRisk": 5, "status": "Attention" }
+  ],
+  "insights": [
+    "Overall unit wellness is stable.",
+    "Slight increase in watch cases in Bravo and Echo.",
+    "No critical alerts at present.",
+    "Continue regular monitoring and support activities."
+  ]
+}
