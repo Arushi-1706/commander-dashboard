@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { Shield, LayoutDashboard, Users, TrendingUp, FileText, Bell, UserCircle, LogOut, RefreshCw, ChevronDown, CheckCircle2, AlertTriangle, Siren, UsersRound, Lightbulb } from 'lucide-react';
 import './styles.css';
 
-const API = 'http://localhost:5000';
+const API = 'https://commander-dashboard-npih.onrender.com';
 
 function Donut({ total, normal, watch, highRisk }) {
   const circumference = 2 * Math.PI * 86;
